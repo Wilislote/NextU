@@ -1,0 +1,11 @@
+header svg{
+  margin-left: 25%;
+}
+header h1{
+  text-align: center;
+}
+body{
+  max-width: 800px;
+  margin:0px;
+  margin: auto;
+}
